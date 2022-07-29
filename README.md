@@ -1,8 +1,8 @@
 # Pause Menu: ALPHA #
 
-Simple standalone pause menu script following the design of our alpha load screen.
-Pause menu is coded using HTML/CSS/LUA/JQUERY.
-All images, text, and colours can be easily edited, full instructions can be found below.
+Simple standalone pause menu script following the design of our alpha load screen.<br>
+Pause menu is coded using HTML/CSS/LUA/JQUERY.<br>
+All images, text, and colours can be easily edited, full instructions can be found below.<br>
 
 ## Features ##
 
