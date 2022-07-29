@@ -20,8 +20,8 @@ All images, text, and colours can be easily edited, full instructions can be fou
 
 1) Customise HTML and CSS accordingly to fit your server, refer to instructions below if unsure.
 2) Customise `config_sv.lua` making sure to include your `webhook` link.
-3) Drag and drop `boii-pausemenu-alpha` into your server resources.
-4) Add `ensure boii-pausemenu-alpha` into your `server.cfg`
+3) Rename the folder to `boii-pausemenu` and drag into your server resources.
+4) Add `ensure boii-pausemenu` into your `server.cfg`
 
 ## Editing discord settings ##
 - Edit your discord bot and webhook settings inside `config_sv.lua`
