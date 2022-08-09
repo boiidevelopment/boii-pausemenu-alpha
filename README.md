@@ -315,7 +315,7 @@ Headers & paragraphs;
 }
 ```
 ## Preview ##
-[YouTube]https://www.youtube.com/watch?v=hBPwCTOVkDw
+[YouTube](https://www.youtube.com/watch?v=hBPwCTOVkDw)
 
 ## Support ##
 [Discord](https://discord.gg/MUckUyS5Kq)
