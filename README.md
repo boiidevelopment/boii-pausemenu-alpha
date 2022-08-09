@@ -13,9 +13,6 @@ All images, text, and colours can be easily edited, full instructions can be fou
 - Settings button to toggle gta settings
 - Disconnect button to quickly leave server
 
-## Preview ##
-[COMINGSOON]
-
 ## Install ##
 
 1) Customise HTML and CSS accordingly to fit your server, refer to instructions below if unsure.
@@ -317,5 +314,8 @@ Headers & paragraphs;
     padding: 1%
 }
 ```
+## Preview ##
+[YouTube]https://www.youtube.com/watch?v=hBPwCTOVkDw
+
 ## Support ##
 [Discord](https://discord.gg/MUckUyS5Kq)
